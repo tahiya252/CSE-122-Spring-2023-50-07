@@ -1,3 +1,6 @@
+//Problem name-Elephant
+//Problem no-617A
+
 #include<iostream>
 using namespace std;
 int main()
