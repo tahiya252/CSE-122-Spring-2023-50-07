@@ -1,3 +1,6 @@
+//Problem name-Word
+//Problem no-59A
+
 #include<iostream>
 using namespace std;
 int main()
